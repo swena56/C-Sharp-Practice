@@ -1,1 +1,7 @@
 c:\users\andy2014\documents\visual studio 2015\Projects\C-Sharp-Practice\C-Sharp-Practice\bin\Debug\C-Sharp-Practice.exe.config
+C:\Sites\C-Sharp-Practice\C-Sharp-Practice\bin\Debug\C-Sharp-Practice.exe.config
+C:\Sites\C-Sharp-Practice\C-Sharp-Practice\bin\Debug\C-Sharp-Practice.exe
+C:\Sites\C-Sharp-Practice\C-Sharp-Practice\bin\Debug\C-Sharp-Practice.pdb
+C:\Sites\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\C-Sharp-Practice.csprojResolveAssemblyReference.cache
+C:\Sites\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\C-Sharp-Practice.exe
+C:\Sites\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\C-Sharp-Practice.pdb

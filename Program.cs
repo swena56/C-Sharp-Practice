@@ -10,6 +10,11 @@ namespace C_Sharp_Practice
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Learing C# and the .NET Framework");
+            Console.WriteLine("");
+            Console.WriteLine("Console needs -> using System");
+
+
         }
     }
 }
